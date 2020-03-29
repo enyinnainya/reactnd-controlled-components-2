@@ -1,0 +1,2 @@
+This React App is a mini Shopping List App that Allows users to Add items to the list and also delete the last item from the list. It employs Modular approach by composing pieces of Re-usable app components together. 
+Please refere to the instructions.md file for more detailed information.
